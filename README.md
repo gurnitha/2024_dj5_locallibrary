@@ -18,3 +18,10 @@ Membuat Perpustakaan Lokal menggunakan Django versi 5
         new file:   locallibrary/urls.py
         new file:   locallibrary/wsgi.py
         new file:   manage.py
+
+
+#### 2. Mendaftarkan aplikasi catalog pada settings.py
+
+        modified:   README.md
+        modified:   catalog/apps.py
+        modified:   locallibrary/settings.py
