@@ -31,3 +31,10 @@ Membuat Perpustakaan Lokal menggunakan Django versi 5
 
         modified:   README.md
         modified:   locallibrary/settings.py
+
+
+#### 4. Membuat dan menampilkan Hello World! menggunakan HttpResponse
+
+        new file:   catalog/urls.py
+        modified:   catalog/views.py
+        modified:   locallibrary/urls.py
