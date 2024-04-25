@@ -38,3 +38,13 @@ Membuat Perpustakaan Lokal menggunakan Django versi 5
         new file:   catalog/urls.py
         modified:   catalog/views.py
         modified:   locallibrary/urls.py
+
+
+#### 5. Membuat superuser dan superuser login
+
+        modified:   README.md
+
+        Note:
+
+        1. Tidak ada file yang berubah.
+        2. Commit dilakukan hanya untuk melengkapi dokumen langkah-langkah yang diperlukan.
