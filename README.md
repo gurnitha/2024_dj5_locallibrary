@@ -25,3 +25,9 @@ Membuat Perpustakaan Lokal menggunakan Django versi 5
         modified:   README.md
         modified:   catalog/apps.py
         modified:   locallibrary/settings.py
+
+
+#### 3. Membuat pengaturan database, waktu, dan bahasa
+
+        modified:   README.md
+        modified:   locallibrary/settings.py
